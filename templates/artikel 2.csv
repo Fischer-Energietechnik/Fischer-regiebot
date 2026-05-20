@@ -1,0 +1,100 @@
+Artikelnummer;Bezeichnung;Einheit;EAN
+LOHN-MEISTER;Meister Stundensatz (Regie);Std;
+LOHN-GESELLE;Elektroinstallateur Geselle (Regie);Std;
+LOHN-AZUBI-1;Auszubildender 1. Lehrjahr (Regie);Std;
+LOHN-AZUBI-2;Auszubildender 2. Lehrjahr (Regie);Std;
+LOHN-AZUBI-3;Auszubildender 3. Lehrjahr (Regie);Std;
+LOHN-BAULEITER;Bauleiter Stundensatz;Std;
+LOHN-PROJEKTL;Projektleiter Stundensatz;Std;
+LOHN-TECHKLÄR;Technische Klärung / Beratung;Std;
+ANFAHRT-PKW;Anfahrt PKW Pauschale;Pausch;
+ANFAHRT-KM;Kilometergeld PKW;km;
+ANFAHRT-FZEIT;Fahrzeit Monteur;Std;
+ANFAHRT-TRANSPORTER;Anfahrt Transporter Pauschale;Pausch;
+KLEINMAT-GERING;Kleinmaterialpauschale gering (bis 50€);Pausch;
+KLEINMAT-MITTEL;Kleinmaterialpauschale mittel (bis 150€);Pausch;
+KLEINMAT-HOCH;Kleinmaterialpauschale hoch (über 150€);Pausch;
+GERUEST-TAG;Gerüst Vorhaltekosten pro Tag;Tag;
+LEITER-ALU3M;Leitervorhaltekosten Alu 3m;Tag;
+LEITER-ALU6M;Leitervorhaltekosten Alu 6m;Tag;
+MESSUNG-VDE;VDE-Messung / Prüfung Elektroanlage;Pausch;
+MESSUNG-RCD;FI-Schutzschalter Prüfung (1 RCD);Stk;
+MESSUNG-THERMO;Thermographiemessung Schaltschrank;Pausch;
+MESSUNG-ISO;Isolationsmessung Leitung;Stk;
+DOKU-REVPLAN;Dokumentation / Revisionsplan;Pausch;
+DOKU-ATTEST;Prüfattest / Inbetriebnahmeprotokoll;Stk;
+NYMJ3X15;NYM-J 3x1,5mm² grau;m;4007521001503
+NYMJ3X25;NYM-J 3x2,5mm² grau;m;4007521002500
+NYMJ3X4;NYM-J 3x4mm² grau;m;4007521003408
+NYMJ3X6;NYM-J 3x6mm² grau;m;4007521003606
+NYMJ5X15;NYM-J 5x1,5mm² grau;m;4007521005150
+NYMJ5X25;NYM-J 5x2,5mm² grau;m;4007521005259
+NYMJ5X4;NYM-J 5x4mm² grau;m;4007521005402
+NYMJ5X6;NYM-J 5x6mm² grau;m;4007521005600
+NYMJ5X10;NYM-J 5x10mm² grau;m;4007521005105
+NYMJ5X16;NYM-J 5x16mm² grau;m;4007521005167
+NYMJ7X15;NYM-J 7x1,5mm² grau;m;4007521007154
+YKY3X15;Erdkabel YKY 3x1,5mm²;m;4007521031500
+YKY5X25;Erdkabel YKY 5x2,5mm²;m;4007521052505
+YKY5X6;Erdkabel YKY 5x6mm²;m;4007521056008
+H07VK15;Aderleitung H07V-K 1,5mm²;m;4007521070707
+H07VK25;Aderleitung H07V-K 2,5mm²;m;4007521070258
+H07VK4;Aderleitung H07V-K 4mm²;m;4007521070400
+H07VK6;Aderleitung H07V-K 6mm²;m;4007521070608
+GIRA021100;Gira Steckdose Reinweiß UP;Stk;4010337211006
+GIRA021400;Gira Steckdose IP44 Klappdeckel UP;Stk;4010337214007
+GIRA021104;Gira Steckdose mit Kinderschutz UP;Stk;4010337211044
+GIRA029700;Gira USB-Steckdose A+C UP Reinweiß;Stk;4010337297001
+BUJA20EUCK;Busch-Jaeger Steckdose mit KS alpinweiß;Stk;4011395010419
+BUJA20EUCIP;Busch-Jaeger Steckdose IP44 alpinweiß;Stk;4011395014005
+JUNGLS1520;Jung Steckdose USB-A+C 5V 2,4A alpinweiß;Stk;4011377161008
+MERTSC13;Merten Steckdose Aktivweiß UP;Stk;4011228009506
+GIRA012800;Gira Wippschalter 1-polig UP Reinweiß;Stk;4010337012800
+GIRA010800;Gira Serienschalter UP Reinweiß;Stk;4010337010806
+GIRA013000;Gira Wechselschalter UP Reinweiß;Stk;4010337013005
+GIRA015000;Gira Kreuzschalter UP Reinweiß;Stk;4010337015009
+GIRADIMT;Gira Dimmer Wipp 50-420W UP Reinweiß;Stk;4010337030002
+GIRA030400;Gira Jalousie-Drucktaster UP Reinweiß;Stk;4010337030408
+BUJA2000;Busch-Jaeger Wippschalter 1-polig alpinweiß;Stk;4011395020005
+BUJA2001;Busch-Jaeger Serienschalter alpinweiß;Stk;4011395020012
+BUJA2020;Busch-Jaeger Wechselschalter alpinweiß;Stk;4011395020203
+JUNGLS990;Jung LS 990 Schalter 1-polig alpinweiß;Stk;4011377010006
+MERT506119;Merten Wechselschalter Aktivweiß UP;Stk;4011228005195
+SIEMB1LS10;Siemens LS-Schalter B10A 1-polig 6kA;Stk;4001869154002
+SIEMB1LS13;Siemens LS-Schalter B13A 1-polig 6kA;Stk;4001869154009
+SIEMB1LS16;Siemens LS-Schalter B16A 1-polig 6kA;Stk;4001869154019
+SIEMB1LS20;Siemens LS-Schalter B20A 1-polig 6kA;Stk;4001869154026
+SIEMB1LS25;Siemens LS-Schalter B25A 1-polig 6kA;Stk;4001869154033
+SIEMB3LS16;Siemens LS-Schalter B16A 3-polig 6kA;Stk;4001869158000
+SIEMB3LS25;Siemens LS-Schalter B25A 3-polig 6kA;Stk;4001869158017
+SIEMB3LS32;Siemens LS-Schalter B32A 3-polig 6kA;Stk;4001869158024
+HAGFI225;Hager FI-Schalter 2P 25A 30mA Typ AC;Stk;3250614012003
+HAGFI240;Hager FI-Schalter 2P 40A 30mA Typ AC;Stk;3250614012007
+HAGFI425;Hager FI-Schalter 4P 25A 30mA Typ A;Stk;3250614017422
+HAGFI440;Hager FI-Schalter 4P 40A 30mA Typ A;Stk;3250614017439
+HAGFI440EV;Hager FI-Schalter 4P 40A 30mA Typ F (EV);Stk;3250614017453
+HAGUVN9;Hager UV Aufputz 9 Module;Stk;3250614901009
+HAGUVN18;Hager UV Aufputz 18 Module;Stk;3250614901801
+HAGUVN24;Hager UV Aufputz 24 Module;Stk;3250614902400
+HAGUVN36;Hager UV Aufputz 36 Module;Stk;3250614903600
+SPELID9;Spelsberg Gerätedose UP Ø68mm IP44;Stk;4013345010092
+SPELAD100;Spelsberg Abzweigdose AP 100x100x50mm IP65;Stk;4013345001007
+SPELAD150;Spelsberg Abzweigdose AP 150x150x70mm IP65;Stk;4013345001502
+OBOKD60;OBO Kabelkanal 60x40mm 2m weiß;Stk;4012196055648
+OBOKD80;OBO Kabelkanal 80x60mm 2m weiß;Stk;4012196055808
+OBOKD100;OBO Kabelkanal 100x60mm 2m weiß;Stk;4012196056003
+OBOEER20;OBO Elektro-Installationsrohr M20 grau;m;4012196100200
+OBOEER25;OBO Elektro-Installationsrohr M25 grau;m;4012196100255
+WAGOK221-3;Wago 221-413 Klemme 3-Leiter 0,14-4mm²;Stk;4055143000225
+WAGOK221-5;Wago 221-415 Klemme 5-Leiter 0,14-4mm²;Stk;4055143000256
+WAGOK243;Wago Steckverbinder 243 für Leuchten;Stk;4055143002434
+LEDPAN60;LED-Panel 60x60cm 36W 4000K neutralweiß;Stk;4058075000001
+LEDDOWN12;LED-Downlight 12W 4000K IP44 weiß rund;Stk;4058075000018
+LEDDOWN18;LED-Downlight 18W 4000K IP44 weiß rund;Stk;4058075000025
+LEDSTRIPE;LED-Stripe 5m 24W 4000K IP20 selbstklebend;Stk;4058075000032
+BUSCHBEW;Busch-Wächter 180° Bewegungsmelder UP weiß;Stk;4011395139003
+GIRAKVS2;Gira KNX Taster 2-fach Standard Reinweiß;Stk;4010337039401
+HAGEZVS1;Hager Energiezähler 1-phasig MID;Stk;3250614078006
+HAGEZVS3;Hager Energiezähler 3-phasig MID;Stk;3250614078013
+WALLBOX11;Wallbox 11kW Typ2 OCPP Smart Charging;Stk;4058075000049
+WALLBOX22;Wallbox 22kW Typ2 OCPP Smart Charging;Stk;4058075000056
