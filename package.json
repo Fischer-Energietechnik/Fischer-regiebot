@@ -1,0 +1,21 @@
+{
+  "name": "fischer-regiebericht-bot",
+  "version": "1.0.0",
+  "description": "Telegram-Regiebericht-Bot für Fischer Energietechnik -> Export nach KWP bnWin.net",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "report": "node src/report.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pdfkit": "^0.15.0",
+    "redis": "^4.6.13"
+  }
+}
